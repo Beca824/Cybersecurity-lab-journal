@@ -1,0 +1,31 @@
+# ALX Practical 1
+
+## Objective
+
+This practical focused on setting up a cybersecurity lab environment and becoming familiar with Linux navigation, SSH, SCP, and port forwarding.
+
+## Skills Practiced
+
+- Oracle VirtualBox
+- Kali Linux
+- SSH
+- SCP
+- Linux Commands
+- File Management
+- Port Forwarding
+
+## What I Learned
+
+- How to set up a virtual lab safely.
+- Basic Linux terminal navigation.
+- Secure remote access using SSH.
+- File transfer using SCP.
+- Different SSH tunneling techniques.
+
+## Challenges
+
+The practical required careful attention to Linux commands and understanding how SSH works in different scenarios.
+
+## Key Takeaways
+
+Building a personal lab environment is essential for practicing cybersecurity skills safely and effectively.

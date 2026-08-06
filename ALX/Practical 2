@@ -1,0 +1,30 @@
+# ALX Practical 2
+
+## Objective
+
+This practical simulated a physical security assessment of a bank using reconnaissance, social engineering, documentation analysis, and logical problem-solving.
+
+## Skills Practiced
+
+- Physical Security
+- Social Engineering
+- Reconnaissance
+- Access Control
+- Password Discovery
+- Documentation Analysis
+- Critical Thinking
+
+## What I Learned
+
+- Small clues gathered during reconnaissance can become critical later.
+- Social engineering is often as effective as technical exploitation.
+- Documentation can unintentionally reveal sensitive security information.
+- Patience and logical reasoning are more effective than guessing.
+
+## Challenges
+
+This practical required carefully analyzing the environment and following clues in the correct order. It reinforced the importance of observation and methodical thinking.
+
+## Key Takeaways
+
+Successful penetration testing relies on technical knowledge, curiosity, and structured problem-solving rather than brute force.
