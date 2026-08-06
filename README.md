@@ -1,2 +1,4 @@
 # Cybersecurity-lab-journal
-Hands-on cybersecurity labs documenting my learning journey in networking, Linux, offensive security, web security, and penetration testing through practical exercises and personal reflections.
+Welcome to my cybersecurity learning portfolio.
+
+This repository documents my hands-on cybersecurity journey through practical labs, networking exercises, Linux administration, and offensive security challenges.
