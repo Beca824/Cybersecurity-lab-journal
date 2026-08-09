@@ -1,0 +1,98 @@
+# Offensive Security Lab Journey
+
+As part of my cybersecurity learning journey, I have been building practical skills through hands-on Offensive Security labs.
+
+These labs have given me experience with reconnaissance, enumeration, network services, web technologies, tunneling, exploitation, and post-exploitation techniques.
+
+> **Status:** 🚧 In Progress
+
+## Reconnaissance & Enumeration
+
+* [x] DNS enumeration with `dig`
+* [x] DNS enumeration with `nslookup`
+* [x] DNS zone transfers
+* [x] Subdomain discovery with `Subfinder`
+* [x] Subdomain enumeration with `Amass`
+* [x] Host and infrastructure discovery with Shodan
+* [x] Email and subdomain enumeration with `theHarvester`
+* [x] Email intelligence with `h8mail`
+* [x] Reconnaissance with Recon-ng
+* [x] OSINT reconnaissance with SpiderFoot
+* [x] HTTP service probing with `httpx`
+* [x] Port discovery with `naabu`
+
+## Web & Network Services
+
+* [x] Network connectivity using Netcat
+* [x] Network connectivity using Telnet
+* [x] Banner grabbing and service identification
+* [x] HTTP requests using `curl` and `wget`
+* [x] HTTP header and response analysis
+* [x] SSL/TLS certificate analysis
+* [x] Advanced `curl` techniques
+
+## Vulnerability Discovery
+
+* [x] Web vulnerability scanning with Nuclei
+
+## Shells & File Transfer
+
+* [x] Bind shells
+* [x] Reverse shells
+* [x] Advanced Netcat techniques
+* [x] File transfer using network utilities
+
+## SSH & Tunneling
+
+* [x] SSH password authentication
+* [x] SSH key-based authentication
+* [x] SCP file transfers
+* [x] SSH dynamic port forwarding
+* [x] SSH local port forwarding
+* [x] SSH remote port forwarding
+* [x] Tunneling with Chisel
+* [x] Tunneling with Socat
+* [x] Proxychains for proxy-based routing
+
+## Metasploit & Post-Exploitation
+
+* [x] Basic Metasploit commands
+* [x] Metasploit auxiliary modules
+* [x] Exploitation using a Meterpreter payload
+
+## What I'm Learning
+
+This hands-on work has helped me develop a better understanding of:
+
+* Attack-surface discovery
+* DNS and subdomain enumeration
+* OSINT techniques
+* Network and service enumeration
+* Web server interaction
+* Port scanning
+* Vulnerability discovery
+* Shells and remote access
+* SSH tunneling and proxying
+* Exploitation fundamentals
+* Meterpreter and post-exploitation concepts
+
+## What's Next?
+
+Completing a lab is only the first step. After finishing the Offensive Security labs, I plan to revisit the tools and techniques to strengthen my understanding of the commands and concepts behind them.
+
+For each tool, I will document:
+
+* What it does
+* Common commands and options
+* When and why it is used
+* Differences between similar tools
+* Real-world penetration testing use cases
+* Key lessons and troubleshooting experiences
+
+I will then continue my hands-on journey through **Defensive Security** and **GRC**, while continuing to build practical cybersecurity projects and labs.
+
+### Goal
+
+My goal is to move beyond simply completing labs and develop the practical understanding needed to approach cybersecurity problems methodically and confidently.
+
+**Learning. Practicing. Building. Improving.**
