@@ -6,7 +6,7 @@ This repository documents my hands-on cybersecurity journey through practical la
 ## Platforms
 
 - ALX Cybersecurity
-- Cisco Networking Academy:Ethical Hacker Course
+- Cisco Networking Academy: Ethical Hacker Course
 - TryHackMe 
 - Hack The Box 
 
