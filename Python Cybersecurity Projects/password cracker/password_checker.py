@@ -1,3 +1,8 @@
+# Password Checker
+# Python Cybersecurity Project 01
+# Purpose: Simulate a basic password authentication system.
+# The user gets three attempts to enter the correct password.
+
 correct_password = "cyber123"
 attempts = 0
 

@@ -30,5 +30,5 @@ Cisco/
 HackTheBox/
 Linux/
 Networking/
-Python/
+Python Cybersecurity Projects/
 TryHackMe/
