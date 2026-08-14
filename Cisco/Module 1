@@ -1,0 +1,96 @@
+Module 01 — Introduction to Kali Linux & Linux Fundamentals
+
+Lab Objective
+
+Set up a pre-built Kali Linux virtual machine and become familiar with the Kali Linux environment, terminal, shell, privileges, and fundamental Linux file-system operations.
+
+Environment
+
+Kali Linux VM
+VirtualBox
+Linux Shell / Terminal
+
+🔹 1. Deploying the Kali Linux VM
+
+I deployed the pre-built Kali Linux virtual machine and launched it in VirtualBox.
+
+The initial setup involved:
+
+Importing the pre-built VM
+Starting the Kali Linux environment
+Familiarizing myself with the desktop and terminal
+Understanding how the VM interacts with the host machine
+
+🔹 2. Exploring Root Privileges
+
+I explored the concept of root privileges in Linux and how they differ from those of a normal user.
+
+This helped me understand why certain administrative operations require elevated privileges and why root access should be handled carefully.
+
+🔹 3. Getting Familiar with the Shell
+
+I practiced working directly from the Kali Linux terminal and became familiar with basic shell interaction.
+
+I also practiced useful keyboard shortcuts to improve terminal navigation and command-line efficiency.
+
+🔹 4. Basic Linux Commands
+
+I practiced fundamental commands for navigating and interacting with the Linux system.
+
+Some of the areas covered included:
+
+pwd
+ls
+cd
+
+These helped me understand my current location, view directory contents, and navigate through the filesystem.
+
+🔹 5. Command Documentation
+
+I learned how to find information about Linux commands instead of relying on memorization.
+
+For example:
+
+man <command>
+
+This introduced me to Linux manual pages and the importance of being able to independently research command options and usage.
+
+🔹 6. Creating & Navigating Directories
+
+I practiced creating directories and moving between them using commands such as:
+
+mkdir
+cd
+
+This helped me become more comfortable navigating the Linux filesystem from the command line.
+
+🔹 7. Redirecting Command Output
+
+I practiced redirecting command output into files instead of displaying it directly in the terminal.
+
+I also learned the difference between overwriting and appending output.
+
+command > file.txt
+command >> file.txt
+
+> redirects output and overwrites the file, while >> appends the output to the existing file.
+
+🔹 8. File & Directory Management
+
+I practiced managing files and directories from the terminal, including:
+
+Creating files/directories
+Deleting files/directories
+Moving files
+Moving directories
+
+Commands covered included:
+
+rm
+rmdir
+mv
+ What I Took Away
+
+This lab gave me my first hands-on experience working with Kali Linux from the command line. Rather than just learning Linux commands theoretically, I practiced using the shell to navigate the filesystem, manage files, redirect output, and work with different privilege levels.
+
+These fundamentals will form the basis for the more security-focused labs that follow.
