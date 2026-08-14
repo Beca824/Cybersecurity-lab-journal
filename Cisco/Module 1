@@ -89,7 +89,8 @@ Commands covered included:
 rm
 rmdir
 mv
- What I Took Away
+
+* What I Took Away
 
 This lab gave me my first hands-on experience working with Kali Linux from the command line. Rather than just learning Linux commands theoretically, I practiced using the shell to navigate the filesystem, manage files, redirect output, and work with different privilege levels.
 
