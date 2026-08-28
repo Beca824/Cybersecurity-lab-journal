@@ -11,7 +11,6 @@ The IAAA model represents four important security functions within an applicatio
 
 Failures in these areas can create vulnerabilities that allow attackers to gain unauthorized access, perform actions they should not be able to perform, or operate without being detected.
 
----
 
 ## A01: Broken Access Control
 
@@ -43,7 +42,6 @@ Authentication only establishes *who* a user is. Authorization determines *what 
 
 Therefore, an application can have strong authentication while still being vulnerable to broken access control.
 
----
 
 ## A07: Authentication Failures
 
@@ -65,7 +63,6 @@ If authentication controls are weak, attackers may be able to compromise legitim
 
 This demonstrates the relationship between the IAAA components: a failure in authentication can eventually lead to authorization problems if an attacker gains access to another user's account.
 
----
 
 ## A09: Logging & Alerting Failures
 
@@ -93,7 +90,6 @@ Without effective accountability, an organization may know that something went w
 * What actions were performed
 * How the attacker gained access
 
----
 
 ## Relationship Between IAAA and Application Security
 
