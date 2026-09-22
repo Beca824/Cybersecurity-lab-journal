@@ -1,5 +1,5 @@
 # Password Dictionary Cracker
-# Python Cybersecurity Project 01 - Level 2
+# Python Cybersecurity Project 01 
 # Purpose: Simulate a dictionary attack using a predefined wordlist.
 # The program tests each password candidate against a known test password
 # and stops when a match is found.
