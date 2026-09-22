@@ -1,5 +1,5 @@
 # Hash Password Cracker
-# Python Cybersecurity Project 01 - Level 3
+# Python Cybersecurity Project 01 
 # Purpose: Simulate a dictionary attack against a password hash.
 # The program hashes each password candidate from a wordlist
 # and compares it with a target hash.
