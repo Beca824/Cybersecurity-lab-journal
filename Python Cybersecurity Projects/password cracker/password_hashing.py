@@ -1,5 +1,5 @@
 # Password Hashing & Salting
-# Python Cybersecurity Project 01 - Level 5
+# Python Cybersecurity Project 01 
 # Purpose: Demonstrate how salts affect password hashing.
 
 import hashlib
